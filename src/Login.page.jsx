@@ -4,7 +4,7 @@ import LoginForm from './Login.form';
 
 const LoginPage = () => {
 	return (
-		<div className="min-h-85 flex items-center justify-center bg-facebook 	">
+		<div className="min-h-100 pt-20 flex items-center justify-center bg-facebook 	">
 			<div className="flex max-w-screen-lg justify-between">
 				<LoginLogo />
 				<LoginForm />

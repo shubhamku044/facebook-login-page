@@ -10,7 +10,7 @@ const LoginLogo = () => {
 					className="h-28"
 				/>
 			</div>
-			<h2 className="text-tiny leading-7">
+			<h2 className="text-logo font-regular mt-4 leading-7">
 				Facebook helps you connect and share with the people in your
 				life.
 			</h2>
