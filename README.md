@@ -13,5 +13,6 @@ You Can fork it and make same changes to it
 
 ## Screenshots
 
-![Facebook.png](Original Facebook Login Page)
-![MyApp.png](Facebook Login page created by me)
+![Original Facebook Login Page](Facebook.png)
+
+![Facebook Login page created by me](MyApp.png)
